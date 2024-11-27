@@ -58,15 +58,6 @@ public class GlintReportsLogin {
 		driver.findElement(By.xpath("//span[text()='Add Filters']")).click();
 		
 		
-//		Thread.sleep(2000);
-//		driver.findElement(By.xpath("//div[@class='menuButton text small glintButton']")).click();
-//		Thread.sleep(2000);
-//		driver.findElement(By.id("option2")).click();
-//		Thread.sleep(1000);
-//		driver.findElement(By.xpath("//*[@class=\"inlineBtn glintButton\"]")).click();
-//		Thread.sleep(2000);
-//		driver.findElement(By.xpath("//*[@class='btnIcon slideyClose glintButton']")).click();
-//		Thread.sleep(2000);
 		
 	}
 	
